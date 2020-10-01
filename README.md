@@ -2,4 +2,4 @@
 A multivariate time series analysis predicting future fires using temperature and precipitation data. 
 
 
-![cover_photo](./README_files/wildfire.jpg| =100x150)
+![cover_photo](./README_files/wildfire.jpg =100x150)
